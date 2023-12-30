@@ -1,0 +1,29 @@
+{
+  "name": "accountdetails",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rakesh",
+  "license": "ISC",
+  "dependencies": {
+    "@firebase/database": "^0.7.0",
+    "@firebase/storage": "^0.4.0",
+    "@fortawesome/fontawesome-free": "5.13.1",
+    "@sendgrid/mail": "^7.2.6",
+    "body-parser": "^1.19.0",
+    "bootstrap": "4.5.0",
+    "express": "^4.17.1",
+    "firebase": "^8.0.0",
+    "firebase-admin": "^9.3.0",
+    "hbs": "^4.1.1",
+    "jquery": "3.5.1",
+    "jquery.easing": "^1.4.1",
+    "multer": "^1.4.2",
+    "simple-line-icons": "2.4.1",
+    "xhr2": "^0.2.0"
+  }
+}
